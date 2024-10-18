@@ -31,21 +31,7 @@ To install and run the Quiz Application, follow these steps:
 
 ![quiz-page2](https://github.com/shashwat9470/QuizApplication-java-swing/assets/56164713/f85a67b1-3c5b-46b9-a097-7c1965705267)
 
-# Contributing
-If you want to contribute to the Quiz Application, follow these steps:
 
-1. Fork the project's GitHub repository.
-2. Make the necessary changes to the code or documentation.
-3. Test your changes thoroughly.
-4. Submit a pull request to the project's GitHub repository.
-
-# License
-
-The Quiz Application is released under the MIT License. See the LICENSE file for more information.
-
-# Contact
-
-If you have any questions or feedback about the Quiz Application, you can contact the project's maintainer at 2001shashwat.rdr@gmail.com
 
 
 
